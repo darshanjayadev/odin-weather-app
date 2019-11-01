@@ -5,4 +5,4 @@ files:
     ignore:
       - 'webpack.config.js'
       - '.eslintrc.js'
-      - '/dist/main.js'
+      - 'dist/main.js'
