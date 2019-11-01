@@ -81,7 +81,7 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 1);
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/js/index.js");
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -94,18 +94,6 @@
 /***/ (function(module, exports) {
 
 eval("console.log('Work in Progress')\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvanMvaW5kZXguanMuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvanMvaW5kZXguanM/N2JhNSJdLCJzb3VyY2VzQ29udGVudCI6WyJjb25zb2xlLmxvZygnV29yayBpbiBQcm9ncmVzcycpXG4iXSwibWFwcGluZ3MiOiJBQUFBOyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/js/index.js\n");
-
-/***/ }),
-
-/***/ 1:
-/*!*******************************!*\
-  !*** multi ./src/js/index.js ***!
-  \*******************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__(/*! /mnt/c/_Code/microverse/odin-weather-app/src/js/index.js */"./src/js/index.js");
-
 
 /***/ })
 
