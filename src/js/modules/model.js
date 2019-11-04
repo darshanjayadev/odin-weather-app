@@ -15,14 +15,12 @@ class Model {
   }
 
   processWeatherData (weatherData) {
-    console.log(weatherData)
     const processedWeatherData = {
-      coord: weatherData.coord,
-      main: weatherData.main,
+      locationName: weatherData.name,
       country: weatherData.sys.country,
-      cityName: weatherData.name,
-      cityID: weatherData.sys.id,
-      weather: weatherData.weather
+      main: weatherData.main,
+      weather: weatherData.weather,
+      dt: weatherData.dt
     }
     return processedWeatherData
   }
