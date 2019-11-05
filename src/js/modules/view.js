@@ -102,6 +102,11 @@ class View {
     this.weatherDataContainer.append(locationName, weather, temperatureContainer, tempFormatChanger)
   }
 
+  renderError (e) {
+    this.weatherDataContainer.innerHTML = ''
+    this.weatherDataContainer.textContent = 'Location Not Found'
+  }
+
   temperatureHelper (temp, desc, tempFormat) {
     let convertedTemp
     if (tempFormat === 'F') {
