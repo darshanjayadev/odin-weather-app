@@ -20,6 +20,12 @@ To get started with the app, clone the repo
 git clone git@github.com:juzQrios/odin-weather-app.git
 ```
 
+and switch to `microverse-req` branch
+
+```
+git checkout microverse-req
+```
+
 and then install required node packages
 
 ```
