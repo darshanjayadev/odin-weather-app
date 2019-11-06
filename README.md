@@ -27,5 +27,3 @@ npm install
 ```
 
 Next, open the `index.html` file inside `dist` folder
-
-As the last step, either enter your own Open Weather API key or message me for my API key into the prompt

@@ -21,15 +21,6 @@ class View {
     }
   }
 
-  init () {
-    if (localStorage.API_KEY) {
-      return localStorage.API_KEY
-    } else {
-      const API_KEY = prompt('Please enter your OpenWeather API Key')
-      return API_KEY
-    }
-  }
-
   createElement (ele, className) {
     const element = document.createElement(ele)
     element.className = className

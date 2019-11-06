@@ -9,7 +9,7 @@ class Controller {
   }
 
   init () {
-    const API_KEY = this.view.init()
+    const API_KEY = 'cc39a347130da6c7443563d23c272644'
     this.model.init(API_KEY)
   }
 
