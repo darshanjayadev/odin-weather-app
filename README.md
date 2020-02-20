@@ -12,6 +12,11 @@ A project to practice the knowledge about asynchronous communication with promis
 - CSS
 - JavaScript
 
+## Live
+
+- Vanilla JS using MVC - [Live Link](https://raw.githack.com/juzQrios/odin-weather-app/master/dist/index.html)
+- React - [Deployed using Netlify](https://fervent-swartz-44baf6.netlify.com/)
+
 ## Getting started
 
 To get started with the app, clone the repo
