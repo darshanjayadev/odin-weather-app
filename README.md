@@ -11,6 +11,7 @@ A project to practice the knowledge about asynchronous communication with promis
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Getting started
 
@@ -29,7 +30,6 @@ git checkout microverse-req
 and then install required node packages
 
 ```bash
-npm install
+yarn install
+yarn start
 ```
-
-Next, open the `index.html` file inside `dist` folder
