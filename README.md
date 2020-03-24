@@ -9,7 +9,7 @@ This is vanilla JavaScript implementation of the app, please switch to [`react-d
 
 [//]: # (Live Demo link)
 <p align="center">
-  <a href="https://raw.githack.com/juzQrios/odin-weather-app/master/dist/index.html">Live Demo</a>
+  <a href="https://raw.githack.com/juzQrios/odin-weather-app/development/dist/index.html">Live Demo</a>
 </p>
 
 ## Built With
