@@ -1,40 +1,73 @@
-# odin-weather-app
+# Odin Weather App
 
-A project to practice the knowledge about asynchronous communication with promises or async/await and when to use them.
+> A project to practice JavaScript asynchronous communication
 
-## Contributors
+This is vanilla JavaScript implementation of the app, please switch to [`react-dev`](https://github.com/juzQrios/odin-weather-app/tree/react-dev) branch for React implementation.
 
-[Darshan](https://github.com/juzQrios)
+[//]: # (Screenshot, Application concept art etc)
+![Screenshot](./vanilla-screenshots.png)
 
-## Technologies
+[//]: # (Live Demo link)
+<p align="center">
+  <a href="https://raw.githack.com/juzQrios/odin-weather-app/master/dist/index.html">Live Demo</a>
+</p>
 
-- HTML
-- CSS
-- JavaScript
+## Built With
 
-## Live
+* HTML
+* CSS
+* JavaScript
 
-- Vanilla JS using MVC - [Live Link](https://raw.githack.com/juzQrios/odin-weather-app/master/dist/index.html)
-- React - [Deployed using Netlify](https://fervent-swartz-44baf6.netlify.com/)
+## Get Started
 
-## Getting started
+### Setup
 
-To get started with the app, clone the repo
+1. Clone this repository.
 
 ```bash
 git clone git@github.com:juzQrios/odin-weather-app.git
 ```
 
-and switch to `microverse-req` branch
-
-```bash
-git checkout microverse-req
-```
-
-and then install required node packages
+2. Install dependencies.
 
 ```bash
 npm install
 ```
 
-Next, open the `index.html` file inside `dist` folder
+3. Build source code.
+
+```bash
+npm run build-dev
+```
+
+4. Open `./dist/index.html` in a browser.
+
+### Tests
+
+While it is a good practice to test code, this project doesn't have any tests right now but I might add them in future.
+
+### Deployment
+
+You need to deploy `./dist` after building the source code.
+
+## Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to checkout this project's [Kanban board](https://github.com/juzQrios/odin-weather-app/projects/1) or [issues page](https://github.com/juzQrios/odin-weather-app/issues).
+
+## Acknowledgments
+
+* [OpenWeather API](http://openweathermap.org/)
+
+## License
+
+This project is [MIT](./LICENSE) licensed.
+
+## Authors
+
+#### Darshan
+
+* Github: [@juzQrios](https://github.com/juzQrios)
+* Linkedin: [Darshan J](https://www.linkedin.com/in/jayadevdarshan/)
+* Email: <jayadev.darshan@gmail.com>
