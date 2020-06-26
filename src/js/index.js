@@ -4,4 +4,5 @@ import View from './modules/view'
 
 const app = new Controller(new Model(), new View())
 
+// Controller init
 app.init()
